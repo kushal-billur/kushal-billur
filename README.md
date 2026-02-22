@@ -1,4 +1,4 @@
-# Hey! I'm Kushal Billur
+#                  Hey! I'm Kushal Billur
 # 💫 About Me:
 🔨 I'm currently working on — Building a full-stack web application<br>🌱 I'm currently learning — Python and React⚡<br>💬 Ask me about — Web development, or why I chose BCA 😄<br>⚡ Fun fact — I can debug code for 3 hours straight but forget to eat lunch
 
